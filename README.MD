@@ -40,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | | crie 5  títulos simples e divertidos para um iniciante do mundo da IA sobre os o uso dos geradores de texto Copilot, Gemini e CHATGPT sem mencionar o nome dos geradores de texto |
+|  título  | Crie 5  títulos simples e divertidos para um iniciante do mundo da IA sobre os o uso dos geradores de texto Copilot, Gemini e CHATGPT sem mencionar o nome dos geradores de texto. |
 | conteúdo | Com base no título "Transforme Suas Ideias em Palavras com a IA: É Mais Fácil do que Você Imagina!" crie um ebook de 5 páginas de maneira simples e didática contendo itens e subitens sobre os geradores de texto copilot, gemini e chatgpt e pontos em comum e diferenças entre estas ferramentas. |
 
 
@@ -48,12 +48,12 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | | create a image of a commom person using IA during the process of writing texts. |
+| título | create a image of a commom person using IA during the process of writing texts. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Freepik
 
 ## 📚 Materiais
 

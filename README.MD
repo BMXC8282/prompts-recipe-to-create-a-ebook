@@ -48,7 +48,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | create a image of a commom person using IA during the process of writing texts. |
+| título | create an image of a commom person using IA during the process of writing texts. |
 
 ## ✨ Features
 
@@ -62,7 +62,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos como power point para diagramação.
 
 ## 👨‍💻 Expert
 
